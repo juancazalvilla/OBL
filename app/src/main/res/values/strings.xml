@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OBL</string>
+    <string name="itemCode">Code</string>
+    <string name="itemProduct">Product</string>
+    <string name="itemCompareTo">Compare To</string>
+    <string name="itemCount">Count</string>
+    <string name="itemPrice">Price</string>
+    <string name="makeNewList">Make a new List</string>
+    <string name="seeOldList">See old lists</string>
+
+
+</resources>
