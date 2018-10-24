@@ -1,0 +1,202 @@
+[{
+		"itemCode": "V2",
+		"itemProduct": "Vitamin C 500 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "6.99",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042828842.jpg"
+	},
+	{
+		"itemCode": "V3",
+		"itemProduct": "Calcium Carbonate + D",
+		"itemCompareTo": "none",
+		"itemPrice": "4.99",
+		"itemCount": "60 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042839453.jpg"
+	},
+	{
+		"itemCode": "V5",
+		"itemProduct": "Coenzyme Q-10 50 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "9.99",
+		"itemCount": "30 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042830765.jpg"
+	},
+	{
+		"itemCode": "V10",
+		"itemProduct": "Glucosamin/Chondroitin",
+		"itemCompareTo": "Osteo Bi-Flex",
+		"itemPrice": "15.99",
+		"itemCount": "80 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042837558.jpg"
+	},
+	{
+		"itemCode": "V16",
+		"itemProduct": "Vitamin E 400 IU Soft Gel",
+		"itemCompareTo": "none",
+		"itemPrice": "11.99",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042832862.jpg"
+	},
+	{
+		"itemCode": "V17",
+		"itemProduct": "Folic Acid 800 mcg Table",
+		"itemCompareTo": "none",
+		"itemPrice": "3.49",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042836679.jpg"
+	},
+	{
+		"itemCode": "V18",
+		"itemProduct": "Iron Supplement 65 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "5.49",
+		"itemCount": "90 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428309322.jpg"
+	},
+	{
+		"itemCode": "V19",
+		"itemProduct": "Fish Oil Omega-3 1000 mg",
+		"itemCompareTo": "Puritam",
+		"itemPrice": "8.99",
+		"itemCount": "120 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042830787.jpg"
+	},
+	{
+		"itemCode": "V32",
+		"itemProduct": "Vitamin D 1000 IU",
+		"itemCompareTo": "none",
+		"itemPrice": "3.49",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042832343.jpg"
+	},
+	{
+		"itemCode": "V35",
+		"itemProduct": "Magnesium 500 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "4.49",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042840837.jpg"
+	},
+	{
+		"itemCode": "V36",
+		"itemProduct": "Zinc Gluconate 50 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "4.49",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042841445.jpg"
+	},
+	{
+		"itemCode": "V41",
+		"itemProduct": "Child Chewable Multivitamins",
+		"itemCompareTo": "Flintstones Complete",
+		"itemPrice": "6.99",
+		"itemCount": "60 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/85135600407.jpg"
+	},
+	{
+		"itemCode": "V45",
+		"itemProduct": "Probiotic Adult",
+		"itemCompareTo": "none",
+		"itemPrice": "14.49",
+		"itemCount": "15 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/50428290163.jpg"
+	},
+	{
+		"itemCode": "V48",
+		"itemProduct": "Biotin 10000 Mc Soft Gel",
+		"itemCompareTo": "none",
+		"itemPrice": "11.49",
+		"itemCount": "60 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042827644.jpg"
+	},
+	{
+		"itemCode": "V49",
+		"itemProduct": "Melatonin Gummy 5 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "10.49",
+		"itemCount": "60 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042830278.jpg"
+	},
+	{
+		"itemCode": "V54",
+		"itemProduct": "Calcium Supplement Gummy 500 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "10.49",
+		"itemCount": "50 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/2791701934.jpg"
+	},
+	{
+		"itemCode": "V56",
+		"itemProduct": "Vitamin A 8,000 IU Nat",
+		"itemCompareTo": "none",
+		"itemPrice": "4.99",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042833623.jpg"
+	},
+	{
+		"itemCode": "V57",
+		"itemProduct": "Vitamin B12 500 mcg",
+		"itemCompareTo": "none",
+		"itemPrice": "8.99",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042829936.jpg"
+	},
+	{
+		"itemCode": "V58",
+		"itemProduct": "B Complex Plus Vitamin C",
+		"itemCompareTo": "none",
+		"itemPrice": "6.99",
+		"itemCount": "130 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042837587.jpg"
+	},
+	{
+		"itemCode": "V59",
+		"itemProduct": "Potassium Gluconate 550 mg",
+		"itemCompareTo": "none",
+		"itemPrice": "4.99",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042828952.jpg"
+	},
+	{
+		"itemCode": "V60",
+		"itemProduct": "Adult Daily Multivitamin Mineral Supplement",
+		"itemCompareTo": "One a Day",
+		"itemPrice": "6.99",
+		"itemCount": "50 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042826511.jpg"
+	},
+	{
+		"itemCode": "V61",
+		"itemProduct": "Vitamin B6",
+		"itemCompareTo": "none",
+		"itemPrice": "6.49",
+		"itemCount": "100 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042843019.jpg"
+	},
+	{
+		"itemCode": "V62",
+		"itemProduct": "Adult Daily Multivitamin Wome's 50+ Advance",
+		"itemCompareTo": "One a Day",
+		"itemPrice": "6.99",
+		"itemCount": "50 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042830712.jpg"
+	},
+	{
+		"itemCode": "V63",
+		"itemProduct": "Adult Daily Multivitamin Men's 50+ Advance",
+		"itemCompareTo": "One a Day",
+		"itemPrice": "6.99",
+		"itemCount": "50 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042826511.jpg"
+	},
+	{
+		"itemCode": "V64",
+		"itemProduct": "Lutein 40 mg Soft Gel",
+		"itemCompareTo": "none",
+		"itemPrice": "17.99",
+		"itemCount": "30 CT",
+		"itemImage": "https://www.cvs.com/bizcontent/merchandising/productimages/large/5042838294.jpg"
+	}
+
+]
